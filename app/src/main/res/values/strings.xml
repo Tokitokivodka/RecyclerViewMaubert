@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RecyclerViewMaubert</string>
+    <string-array name="name">
+        <item>Hamlet</item>
+        <item>La Tempete</item>
+        <item>Le Roi Lear</item>
+        <item>Macbeth</item>
+        <item>Othello</item>
+        <item>Peine d amour perdue</item>
+        <item>Romeo et Juliette</item>
+    </string-array>
+
+    <string-array name="number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3">
+
+        <ImageView
+            android:id="@+id/listBookImg"
+            android:layout_width="300px"
+            android:layout_height="450px" />
+
+        <TextView
+            android:id="@+id/listBookNum"
+            android:layout_width="34dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="center"
+            android:textSize="@dimen/numSize" />
+
+        <TextView
+            android:id="@+id/listBookName"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:layout_columnWeight="1"
+            android:layout_gravity="center"
+            android:textSize="@dimen/titleSize" />
+
+    </GridLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimaryDark" />
+
+
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_width">80sp</dimen>
+    <dimen name="numSize">20sp</dimen>
+    <dimen name="titleSize">15sp</dimen>
+</resources>
