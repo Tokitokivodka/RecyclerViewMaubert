@@ -2,14 +2,14 @@
  
 ## Contenu
 
-### > classe :     
+### classe :     
 - ListBook.kt  
 - ListBookAdapter.kt  
   
 MainActivity.kt  
   
     
-### > drawable :    
+### drawable :    
 - hamlet  
 - latempete  
 - leroilear  
@@ -19,7 +19,7 @@ MainActivity.kt
 - romeoetjuliette  
 
   
-### > layout :    
+### layout :    
 - activity_main.xml  
 - list_book.xml  
   
